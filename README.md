@@ -28,6 +28,10 @@ Classification supervisée à partir des images :
 
 ![Cream Colorful Abstract Table Of Contents](https://github.com/user-attachments/assets/93b9a4f1-3d9f-445e-bd9e-df83bf162f70)
 
+Notebook Python permettant une extraction : 
+
+[Cream Colorful Abstract Table Of Contents.pdf](https://github.com/user-attachments/files/16681114/Cream.Colorful.Abstract.Table.Of.Contents.pdf)
+
 
 
 
