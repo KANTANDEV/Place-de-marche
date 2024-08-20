@@ -30,7 +30,7 @@ Classification supervisée à partir des images :
 
 Notebook Python permettant une extraction : 
 
-[Cream Colorful Abstract Table Of Contents.pdf](https://github.com/user-attachments/files/16681114/Cream.Colorful.Abstract.Table.Of.Contents.pdf)
+![Cream Colorful Abstract Table Of Contents.pdf](https://github.com/user-attachments/files/16681114/Cream.Colorful.Abstract.Table.Of.Contents.pdf)
 
 
 
